@@ -28,7 +28,7 @@ class TestTest_project(unittest.TestCase):
         pass
 
     def test_000_something(self):
-        print "Testing project"
+        print "Testing project 123"
         pass
 
     def test_command_line_interface(self):
